@@ -13,6 +13,7 @@ Please cite the use of our library as:
 Bibtex citation:
 
 .. code-block:: console
+
    @article{palma2022bacteriophage,
   title={Bacteriophage effect on parasitism resistance},
   author={Palma, Gabriel R and Coutinho, Renato M and Godoy, Wesley AC and C{\^o}nsoli, Fernando L and Kraenkel, Roberto A},
