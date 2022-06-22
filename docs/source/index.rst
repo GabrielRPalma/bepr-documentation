@@ -1,6 +1,10 @@
 Welcome to bepr's documentation!
 ===================================
 
+<p align="center">
+  <img src="./bepr.png">
+</p>
+
 **Bepr** is a Python library for researchers 
 that are interested in studying the bacteriophage effect 
 on parasitism resistance based on a mathematical approach.
