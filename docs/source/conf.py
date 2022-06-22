@@ -4,7 +4,7 @@
 
 project = 'bepr'
 copyright = '2022, Gabriel Rodrigues Palma'
-author = 'Gabriel'
+author = 'Gabriel Rodrigues Palma'
 
 release = '0.1'
 version = '0.0.2'
