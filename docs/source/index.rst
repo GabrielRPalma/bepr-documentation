@@ -15,11 +15,17 @@ Bibtex citation:
 .. code-block:: console
 
    @article{palma2022bacteriophage,
-  title={Bacteriophage effect on parasitism resistance},
-  author={Palma, Gabriel R and Coutinho, Renato M and Godoy, Wesley AC and C{\^o}nsoli, Fernando L and Kraenkel, Roberto A},
-  journal={arXiv preprint arXiv:2205.03382},
-  year={2022}
-   }
+            title={Bacteriophage effect on parasitism resistance},
+            author={Palma, Gabriel R and Coutinho, Renato M and Godoy, Wesley AC and C{\^o}nsoli, Fernando L and Kraenkel, Roberto A},
+            journal={arXiv preprint arXiv:2205.03382},
+            year={2022}}
+            
+APA citation:
+
+.. code-block:: console
+
+   Palma, G. R., Coutinho, R. M., Godoy, W. A., Cônsoli, F. L., & Kraenkel, R. A. (2022). Bacteriophage effect on parasitism resistance. arXiv preprint    arXiv:2205.03382.
+            
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
