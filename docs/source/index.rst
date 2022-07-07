@@ -1,7 +1,7 @@
 Welcome to bepr's documentation!
 ===================================
 
-.. image:: ./bepr.png
+.. image:: ./3.png
    :align: center
    :width: 500
    :alt: bepr logo.
