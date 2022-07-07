@@ -3,7 +3,8 @@ Welcome to bepr's documentation!
 
 .. image:: ./3.png
    :align: center
-   :width: 500
+   :width: 300
+   :height: 300
    :alt: bepr logo.
 
 **Bepr** is a Python library for researchers 
