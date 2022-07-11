@@ -12,8 +12,8 @@ To use Bepr package, first install it using pip:
 
    (.venv) $ pip install bepr
 
-Creating recipes
-----------------
+Simulating hosts population
+---------------------------
 
 To simulate population of hosts based on the proposed bacteriophage effect resistence model
 you can use the ``bepr.simulation()`` and  ``bepr.model_plot()``functions:
@@ -30,6 +30,12 @@ For example:
 >>> import bepr
 >>> teste_values = simulation(init = [500, 500, 2000], time = 1000, P=0,mu = 0.05,th = 0.995, tv = .9, tx = .995, alfa = - np.log(0.285), teta = - np.log(0.9175), beta = 1/105, bh=.2, bv=.3, doplot=False)
 >>> model_plot(y=teste_values, save=True, S_name=' MedicagosativaWP.png')
+
+.. image:: /MedicagosativaWP.png
+   :align: center
+   :width: 300
+   :height: 300
+   :alt: Timse Series.
 
 
 
