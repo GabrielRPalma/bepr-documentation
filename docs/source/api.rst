@@ -1,7 +1,8 @@
-API
-===
+Examples
+========
 
-.. autosummary::
-   :toctree: generated
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-   lumache
+   notebooks/bepr.ipynb
