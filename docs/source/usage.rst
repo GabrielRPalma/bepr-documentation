@@ -21,6 +21,7 @@ you can use the ``bepr.simulation()`` and  ``bepr.model_plot()``functions:
 .. autofunction:: bepr.simulation
 
 The ``int`` parameter should be a list with the number of initial hosts for respectivelly, Hosts without H. defensa, Hosts with H. defensa without APSE and Hosts with H. defensa with APSE. the parameter ``time`` is the number of model iterations, ``P`` is the number of parasitoids in the system, and the additional arguments are the model parameters as you can see by the example above. Moreover, the ``doplot`` argument allow you to to visualise the dynamics  using this function.
+
 .. autoexception:: bepr.InvalidKindError
 
 
