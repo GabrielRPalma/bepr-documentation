@@ -33,7 +33,7 @@ For example:
 
 .. image:: %20MedicagosativaWP.png
    :align: center
-   :width: 300
+   :width: 500
    :height: 300
    :alt: Timse Series.
 
