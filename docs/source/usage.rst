@@ -31,11 +31,9 @@ For example:
 >>> teste_values = simulation(init = [500, 500, 2000], time = 1000, P=0,mu = 0.05,th = 0.995, tv = .9, tx = .995, alfa = - np.log(0.285), teta = - np.log(0.9175), beta = 1/105, bh=.2, bv=.3, doplot=False)
 >>> model_plot(y=teste_values, save=True, S_name=' MedicagosativaWP.png')
 
-.. image:: MedicagosativaWP.png
+.. image:: ./MedicagosativaWP.png
    :align: center
    :width: 800
    :height: 500
    :alt: Timse Series.
-
-
 
