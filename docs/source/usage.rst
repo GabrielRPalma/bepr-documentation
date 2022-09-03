@@ -32,7 +32,7 @@ For example:
 >>> model_plot(y=teste_values, save=True, S_name=' MedicagosativaWP.png')
 
    
-.. image:: ./MedicagosativaWP.png
+.. image:: ./3.png
    :align: center
    :width: 300
    :height: 300
